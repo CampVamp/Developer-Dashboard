@@ -4,7 +4,7 @@ const WhyJoin = () => {
   return (
     <div className="flex m-7 p-7 rounded-2xl gap-4 justify-around bg-white">
       <div className=" w-96 ">
-        <img src="src\assets\ComputerGuy.png" alt="" />
+        <img src={"src/assets/ComputerGuy.png"} alt="" />
       </div>
       <div className=" basis-1/2">
         <div className="text-3xl">Why Join</div>
